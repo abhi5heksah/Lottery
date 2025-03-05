@@ -1,0 +1,20 @@
+2.git command list 
+
+    =>  git inti ( initialized)
+    => create repo
+
+#note: local project name and repo name must have 
+
+3. git remote -v                                            // check your connection 
+4. git remote add origin repopath                               // cteate new connection 
+5.git add --all                                                   //add all files on git
+6.git commit-m  "anymessage"                                    // message for comment your code
+7. git push origin nameofbrance                                    // send data on cloud repo
+8.git clone repopath                                                    // cone your repo
+
+#note: if genereate node_modules folder
+
+9. git add --all
+10. git commit -m "message"
+11. git pull origin reponame
+12.
